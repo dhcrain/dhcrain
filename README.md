@@ -1,16 +1,13 @@
-### Hi there 👋
+<h1 align="center">Hi there 👋</h1>
 
-<!--
-**dhcrain/dhcrain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://dhcrain.com/">Website</a> •
+  <a href="https://twitter.com/dhcrain">Twitter</a> •
+  <a href="https://www.linkedin.com/in/daviscrain">Linkedin</a>
+</p>
 
-Here are some ideas to get you started:
+I am a __web application developer__ based in __Michigan__. I work on a great Agile team and utilize Java with Spring Boot, Angular with TypeScript, Git, Oracle and Teradata, testing with Groovy, Spock, and Jest. I like to dabble in Python on the side.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 💼 Currently working at [Kunz, Leigh & Associates](https://www.seald.io) <br/>
+* 🔖 Discover my [Resume](https://dhcrain.com/#resume)<br/>
+* 📫 Contact me [@dhcrain](https://twitter.com/dhcrain)
